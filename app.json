@@ -1,21 +1,23 @@
 {
   "expo": {
-    "name": "alpaca-widget-app",
-    "slug": "alpaca-widget-app",
+    "name": "soltrendio",
+    "slug": "soltrendio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "soltrendio",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jongan69.soltrendio"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.jongan69.soltrendio"
     },
     "web": {
       "bundler": "metro",
