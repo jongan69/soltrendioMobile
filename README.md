@@ -68,4 +68,3 @@ We welcome contributions! Please see our [contributing guidelines](link-to-contr
 ## License
 
 This project is licensed under the [Your License Name] - see the [LICENSE](link-to-license-file) file for details.
-# soltrendioMobile
